@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "273245115886",
+    "firebase_url": "https://autosms-poc.firebaseio.com",
+    "project_id": "autosms-poc",
+    "storage_bucket": "autosms-poc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273245115886:android:4ed121b8ddb025ec",
+        "android_client_info": {
+          "package_name": "autosms.poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273245115886-uamp47jldqf1pb3pp8df5leofg2ao9eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUP3mzgVCM2qSrOb_9OPBZEg1l4OqWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
